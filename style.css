@@ -1,0 +1,279 @@
+
+
+.nav-item {
+    padding: 1.5rem;
+}
+
+.Company-name{
+    padding: 1rem;
+    font-family: 'Lobster', cursive;
+    font-size: 35px;
+    color: #00BFFF;
+}
+.navbar-light.bl{
+background-color: #181818;
+}
+.navbar-light .navbar-brand {
+    color:white;
+    
+
+}
+.navbar-light .navbar-nav .nav-link {
+    color:white;
+    
+}
+
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color:white;
+}
+
+.header-1 {
+    margin: auto;
+    padding-top: 2rem;
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    
+}
+
+.text-1, .wed-ind-text {
+    font-family: 'Oswald', sans-serif;
+    margin: auto;
+    padding: 2rem 4rem 2rem 4rem;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+hr.new1 {
+border: 3px solid gold;
+margin-top: 3.5rem;
+width: 70rem;
+}
+
+.services-icon1 {
+padding-top: 2.5rem;
+}
+.services-icon2 {
+padding-top: 1.5rem;
+}
+
+.Services-header {
+   
+    text-align: center;
+    font-size: 45px;
+}
+.Services-text {
+    font-family: 'Open Sans Condensed', sans-serif;
+    margin: auto;
+    text-align: center;
+    font-size: 25px;
+}
+.fa-camera:before, .fa-video:before, .fa-book:before, .fa-film:before, .fa-camera-retro:before, .fa-calendar-week:before {
+    padding: 1rem;
+    size: 1.5rem;
+    color: gold;
+}
+.icon-1, .icon-2, .icon-3{
+    text-align: right;
+    padding-top: 20px;
+    padding-right: 0 !important;
+}
+.photography {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 30px;
+    padding-top: 5px;
+    padding-bottom: 0;
+    margin: 0;
+}
+.photography-subtext {
+    font-family: 'Open Sans Condensed', sans-serif;
+    padding-top: 0;
+}
+.Our-work-header, .wedding-india, .weddings-header{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 45px;
+    text-align: center;
+    
+}
+
+.img-1 {
+    padding-left: 12rem;
+}
+.img-2 {
+    padding-top: 4rem;
+}
+.img-3 {
+    padding-top: 2rem;
+    padding-left: 6rem;
+}
+.img-4 {
+    padding-left: 6rem;
+    padding-top: 1rem;
+}
+.img-5 {
+    padding-top: 2rem;
+    padding-left: 5rem;
+}
+.img-6 {
+    padding-top: 2rem;
+    padding-left: 3rem;
+}
+button.contact-us {
+    color: gold;
+    background-color:#181818;
+    display: block;
+    margin: auto;
+    width: 15%;
+}
+button:hover {
+    color: black;
+}
+.watermark {
+    display: block;
+    margin: auto;
+}
+.footer {
+    background-color:#181818 !important; 
+    
+}
+.footer-img {
+    padding: 1rem 0rem;
+}
+
+.fab {
+    margin: 25px;
+    padding-top: 4rem;
+}
+.fab.fa-facebook {
+    color: #3b5998;
+}
+.fab.fa-instagram {
+    color: #C13584;
+}
+
+.fab.fa-google-plus-g {
+    color: #db4a39;
+}
+
+.card.prewedding-card {
+    display: block;
+    margin: auto;
+    
+}
+.btn.prewed-btn {
+    display: block;
+    margin: auto;
+    color: gold;
+    background-color: black;
+}
+
+
+
+.prewed-header {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 40px;
+    display: block;
+    margin: auto;
+    padding-top: 2rem;
+}
+
+.prewed-text {
+    font-family: 'Open Sans Condensed', sans-serif;
+    padding-right: 2rem;
+    font-size: 20px;
+}
+
+.prewed-card {
+    padding-left: 4rem;
+}
+
+.haldi-header {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 40px;
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+.haldi-text {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+    padding-left: 2rem;
+}
+.haldi-card {
+    padding-left: 5rem;
+}
+
+.hire-header {
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+    font-size: 45px;
+    padding-top: 3rem;
+}
+
+hr.new2 {
+    width: 300px;
+    border: 3px solid gold;
+    margin-left: 16rem;
+}
+
+.hire-text{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 25px;
+}
+
+.hire-text ul {
+    margin-left: 15rem;
+}
+
+.hire-text ul li {
+    padding: 1.5rem;
+    
+}
+
+.write-to-us {
+     
+        font-family: 'Open Sans Condensed', sans-serif;
+        text-align: center;
+        font-size: 45px;
+        padding-top: 3rem;
+}
+.write-form {
+    font-family: 'Open Sans Condensed', sans-serif;
+        padding-left: 30rem;
+        padding-top: 5rem;
+        font-size: 20px;
+}
+
+.form-group {
+    width: 35rem;
+}
+
+   .fa-map-marked-alt:before  {
+    padding: 1rem;
+    size: 1.5rem;
+    color:green;
+}
+
+.fa-mobile-alt:before {
+    padding: 1rem;
+    size: 1.5rem;
+    color: #2a9df4;
+}
+
+.fa-at:before {
+    padding: 1rem;
+    size: 1.5rem;
+    color: black;
+}
+
+.call-us , .email-us, .address {
+    text-align: center;
+}
+.call-text {
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+    padding-top: 1rem;
+    font-size: 22px;
+}

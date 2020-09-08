@@ -1,0 +1,49 @@
+body{
+    background-color: #f8f8f8;
+}
+
+.section-1 {
+    background-color: #F8F8F8;
+}
+
+.navbar-left {
+    
+    
+}
+
+.navbar-right {
+    
+}
+
+.row {
+    height: 150px;
+}
+
+.Company-name-text {
+    font-family: 'Lobster', cursive;
+    font-size: 2rem;
+    margin: auto;
+    padding-left: 5%;
+    padding-top: 43px;
+    
+}
+.logo-img {
+    margin: auto;
+    padding: 2rem;
+    border-radius: 50%;
+}
+.nav {
+    padding-left: 17%;
+}
+.nav-link {
+    text-decoration: none;
+    color:black ;
+    margin: auto;
+    padding-top: 50px;
+    padding-left: 2rem;
+}
+
+.carousel {
+    width: 100%;
+    
+}
